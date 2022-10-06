@@ -13,7 +13,8 @@
 		"castwide.solargraph",
 		"kaiwood.endwise",
 		"sianglim.slim",
-		"jnbt.vscode-rufo"
+		"jnbt.vscode-rufo",
+		"Vue.volar"
 	],
 	"runArgs": [
 		// "--privileged",
